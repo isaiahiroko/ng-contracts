@@ -1,0 +1,20 @@
+{
+  "name": "@isaiahiroko/ng-contracts",
+  "keywords": ["Angular", "Contract"],
+  "description": "Collection of common interfaces useful for everyday Angular application development.",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/isaiahiroko/ng-contracts"
+  },
+  "author": {
+    "name": "Isaiah Iroko",
+    "email": "isaiahiroko@gmail.com"
+  },
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "@ngx-formly/core": "^4.7.2"
+  },
+  "license": "MIT"
+}
