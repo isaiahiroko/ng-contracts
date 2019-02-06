@@ -1,7 +1,5 @@
 import { ValidatorFn } from '@angular/forms'
 
-import { Observable } from 'rxjs'
-
 import { FormlyFieldConfig } from '@ngx-formly/core'
 
 export interface DBColumnContract {

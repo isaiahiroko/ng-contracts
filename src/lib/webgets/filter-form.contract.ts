@@ -1,5 +1,3 @@
-import { Observable } from 'rxjs'
-
 export type FiltersFormType = string | 'string' | 'boolean' | 'time' | 'number'
 
 export interface FiltersFormContract {

@@ -1,4 +1,3 @@
-import { ImageContract } from './image.contract'
 import { ModelBaseContract } from './model-base.contract'
 import { ActionsContract } from '../webgets/actions.contract'
 

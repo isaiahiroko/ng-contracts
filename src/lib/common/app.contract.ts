@@ -1,5 +1,3 @@
-import { ImageContract } from './image.contract'
-
 export interface SubscribeContract{
     email: string;
     filters?: string[];

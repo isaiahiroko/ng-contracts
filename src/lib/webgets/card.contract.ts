@@ -1,5 +1,5 @@
 import { ContentContract } from './content.contract'
-import { sizeType } from '../types.contract'
+import { SizeType } from '../types.contract'
 import { SliderContract } from './slider.contract'
 import { TableContract } from './table.contract'
 import { JSONContract } from '../common/json.contract';
@@ -23,6 +23,6 @@ export interface CardContract extends ContentContract{
     comments?: any[];
     QAs?: any[];
     canComment?: boolean;
-    size?: sizeType;
+    size?: SizeType;
     address?: AddressContract;
 }
